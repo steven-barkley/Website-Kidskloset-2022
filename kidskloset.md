@@ -1,11 +1,11 @@
 This project was authored and designed by Marucshka Germain and Steven Barkley
 
-#_**KidsKloset**_
+# _**KidsKloset**_
 
 
 Here is an image of a child's closet:
 
-![Kids Kloset](/images/kidskloset.jpg)
+![Kids Kloset](/images/KidsKloset.jpg)
 
 TODOS
 
